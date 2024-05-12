@@ -14,7 +14,9 @@
 ##  Laravel Application Structure 
 
 <img src="./media/image2.png"
-style="width:4.57234in;height:8.95721in" /> Docker <img src="./media/image3.png" style="width:6.5in;height:5.26528in" />  
+style="width:4.57234in;height:8.95721in" /> 
+
+## Docker <img src="./media/image3.png" style="width:6.5in;height:5.26528in" />  
 
 ## Setup .env file 
 <img src="./media/image4.png" style="width:6.5in;height:3.90486in" />
